@@ -37,8 +37,7 @@ ID,Nome,Ano,Duracao,Metascore,Generos,Qtd votos,IMDB,Qtd atores,Estrela de cinem
 36,Procurando Nemo,2003,100,90,"animacao, aventura, comedia",986977,81,23,F,Pixar,Walt Disney,en,T,4,1,18
 37,O Último Mestre do Ar,2003,103,20,"acao, aventura, familia",158658,40,32,F,Nickelodeon ,Paramount,en,T,0,0,0
 38,Réquiem para um Sonho,2000,102,68,drama,798178,83,72,F,Thousand Words,"Artisan, Europa",,F,1,0,29
-39,X-Men: O Filme,2000,104,64,"acao, aventura, sci-fi",589466,74,62,T,"20th Century Fox
-Marvel Studios",20th Century Fox,en,T,0,0,26
+39,X-Men: O Filme,2000,104,64,"acao, aventura, sci-fi",589466,74,62,T,"20th Century Fox",20th Century Fox,en,T,0,0,26
 40,Náufrago,2000,143,73,"aventura, drama, romance",554375,78,65,T,ImageMovers ,DreamWorks,en,F,2,0,28
 41,Psicopata Americano,2000,101,64,"comedia, crime, drama",528918,76,39,F,Edward R. Pressman ,"Lions Gate",en,F,0,0,14
 42,Corpo Fechado,2000,106,62,"drama, misterio, sci-fi",402049,73,40,T,Touchstone ,Buena Vista,en,F,0,0,37
