@@ -5,7 +5,7 @@ ID,Nome,Ano,Duracao,Metascore,Generos,Qtd votos,IMDB,Qtd atores,Estrela de cinem
 4,Star Trek,2009,127,92,"acao, aventura, sci-fi",590806,79,88,F,Spyglass,Paramount,en,T,4,1,8
 5,O Rei Leao,1994,88,88,"animacao, aventura, drama",987061,85,23,F,Walt Disney,Buena Vista,en,T,4,2,9
 6,R.I.P.D. - Agentes do Alem,2013,96,25,"acao, aventura, comedia",124891,56,20,T,Dark Horse,Universal,en,F,0,0,34
-7,Bernardo e Bianca,1977,78,74,"animacao, aventura, comedia",61148,69,8,F,Walt Disney,Buena Vista,en ,F,1,0,5
+7,Bernardo e Bianca,1977,78,74,"animacao, aventura, comedia",61148,69,8,F,Walt Disney,Buena Vista,en,F,1,0,5
 8,Cinderella,2015,95,67,"aventura, drama, familia",169139,69,38,F,Walt Disney,Walt Disney,en,F,1,0,8
 9,Todos os Caes Merecem o Ceu,1989,84,50,"animacao, comedia, drama",39697,68,30,F,,United Artists,en,T,0,0,12
 10,Kaye Ballard - The Show Goes On,2019,90,,biografia,190,100,29,T,Jim-Dandy Films,,en,F,0,0,36
@@ -22,7 +22,7 @@ ID,Nome,Ano,Duracao,Metascore,Generos,Qtd votos,IMDB,Qtd atores,Estrela de cinem
 21,Salvando o Natal,2014,79,18,"comedia, familia",15570,14,47,F,Camfam,Samuel Goldwyn Films,en,F,0,0,5
 22,A Mumia,1999,124,48,"acao, aventura, fantasia",408243,70,25,F,Alphaville Films,Universal,en,T,1,0,5
 23,Operação Cupido,1998,128,64,"aventura, comedia, drama",128359,66,48,T,Walt Disney,Buena Vista,en,F,0,0,0
-24,Dirty Dancing: Ritmo Quente,1987,100,65,"drama, musical, romance",215603,70,33,F,Vestron Pictures,Flashstar,en ,F,1,1,3
+24,Dirty Dancing: Ritmo Quente,1987,100,65,"drama, musical, romance",215603,70,33,F,Vestron Pictures,Flashstar,en,F,1,1,3
 25,"Nanny McPhee, a Baba Encantada",2005,97,59,"comedia, familia, fantasia",72226,66,21,T,Universal Pictures,Universal,en,F,0,0,19
 26,Vestida para Casar,2008,111,47,"comedia, romance",158991,61,33,F, Spyglass,20th Century Fox,en,F,0,0,17
 27,Uma Noite no Museu,2006,108,48,"aventura, comedia, familia",328375,64,39,T, Ingenious ,20th Century Fox,en,F,0,0,45
